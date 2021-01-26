@@ -2,7 +2,12 @@
 Batch EAS Encoder
 
 Hello!
-This is a sort of FAQ type thing:
+
+
+Quick notice about requirements:
+VLC media player running on Windows
+
+FAQ:
 
 
 Q: Why is it called SoftENDEC?
