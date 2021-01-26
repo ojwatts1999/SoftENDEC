@@ -14,5 +14,4 @@ A: Idk, I think it means Encoder Decoder when it doesn't decode, so a more reali
 Q: How do I download?
 
 
-
 A: Find the version you want in the branches, and then download as a ZIP.
