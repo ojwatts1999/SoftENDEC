@@ -7,7 +7,7 @@ Hello!
 Quick notice about requirements:
 
 
-VLC media player running on Windows
+-VLC media player running on Windows
 
 FAQ:
 
