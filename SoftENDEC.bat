@@ -2144,7 +2144,7 @@ cd assets
 cd same_headers
 echo Sending SAME Header...
 title SoftENDEC - Sending SAME
-start /wait "C:\Program Files (x86)\VideoLAN\VLC" vlc.exe --audio PRACTICE_DEMO.wav vlc://quit
+start /wait "C:\Program Files (x86)\VideoLAN\VLC" vlc.exe --audio PRACTISE_DEMO.wav vlc://quit
 cd..
 cd attention_tones
 title SoftENDEC - Sending Attention Tone
