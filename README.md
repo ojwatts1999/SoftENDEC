@@ -11,6 +11,9 @@ Quick notice about requirements:
 
 FAQ:
 
+Q: SmartScreen is blocking this app from running. Is this a virus?
+
+A: NO. It is not a virus. That is a false positive. Press "More Info" and then "Run anyway" if you experience this issue.
 
 Q: Why is it called SoftENDEC?
 
