@@ -379,6 +379,7 @@ start /wait "C:\Program Files (x86)\VideoLAN\VLC" vlc.exe --audio EAS_ATTENTION.
 title SoftENDEC - Sending Attention Tone (National Weather Service)
 echo Sending National Weather Service attention tone...
 start /wait "C:\Program Files (x86)\VideoLAN\VLC" vlc.exe --audio EAS_ATTENTION_NWS.wav vlc://quit
+cd ..
 title SoftENDEC - Sending Voice
 echo Sending voice...
 start /wait "C:\Program Files (x86)\VideoLAN\VLC" vlc.exe --audio voice.wav vlc://quit
