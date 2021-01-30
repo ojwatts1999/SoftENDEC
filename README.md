@@ -25,3 +25,6 @@ Q: How do I download?
 
 
 A: Find the version you want in the branches, and then download as a ZIP.
+
+Builds that have lost support:
+-v0.1
